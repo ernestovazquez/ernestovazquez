@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ernesto</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ernestovazquez" alt="ernestovazquez" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ernestovazgar" target="blank"><img src="https://img.shields.io/twitter/follow/ernestovazgar?logo=twitter&style=for-the-badge" alt="ernestovazgar" /></a> </p>
 
