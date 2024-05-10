@@ -2,8 +2,6 @@
 
 <p align="left"> <a href="https://twitter.com/ernestovazgar" target="blank"><img src="https://img.shields.io/twitter/follow/ernestovazgar?logo=twitter&style=for-the-badge" alt="ernestovazgar" /></a> </p>
 
-- 🔭 I’m currently working on **Chakray Consulting**
-
 - 📝 I regularly write articles on [ernestovazquez.es](ernestovazquez.es)
 
 - 📫 How to reach me **ernestovazquezgarcia@gmail.com**
