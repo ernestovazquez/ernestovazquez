@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ernesto</h1>
 
-<p align="left"> <a href="https://twitter.com/ernestovazgar" target="blank"><img src="https://img.shields.io/twitter/follow/ernestovazgar?logo=twitter&style=for-the-badge" alt="ernestovazgar" /></a> </p>
-
 - 📝 I regularly write articles on [ernestovazquez.es](ernestovazquez.es)
 
 - 📫 How to reach me **ernestovazquezgarcia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ernestovazgar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ernestovazgar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ernestovazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ernestovazquez" height="30" width="40" /></a>
 </p>
 
