@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ernesto</h1>
 
-- 📝 I regularly write articles on [ernestovazquez.es](ernestovazquez.es)
+- 📝 I regularly write articles on [ernestovazquez.es](https://ernestovazquez.es)
 
 - 📫 How to reach me **ernestovazquezgarcia@gmail.com**
 
